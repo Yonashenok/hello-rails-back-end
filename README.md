@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>hello-rails-back</b></h3>
+  <h3><b>hello-rails-back-end</b></h3>
 
 </div>
 
@@ -26,7 +26,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 hello-rails-back <a name="about-project"></a>
+# 📖 hello-rails-back-end <a name="about-project"></a>
 
 [React app Link Here](https://github.com/Yonashenok/hello-react-front-end.git)
 
